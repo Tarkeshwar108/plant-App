@@ -5,6 +5,13 @@
 <img src="https://i.imgur.com/yFBoA8H.png" width="300" height="600">
 <img src="https://i.imgur.com/irUTl3J.png" width="300" height="600">
 </h2>
+
+</br></br>
+## Android App Preview
+<h2>
+<img src="https://i.imgur.com/EslPjW5.jpg" width="300" height="600">
+<img src="https://i.imgur.com/ltk2fai.jpg" width="300" height="600">
+</h2>
 <!-- ## Android App Preview
 ![Android Preview Gif 1](http://i.imgur.com/88ZW3Ls.gif "Android Preview Gif 1")
 ![Android Preview Gif 2](http://i.imgur.com/DWjd4zM.gif "Android Preview Gif 2")
